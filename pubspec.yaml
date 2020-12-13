@@ -8,9 +8,15 @@ environment:
 
 dependencies:
   teflink_console:
-    path: ../console
+    git:
+      url: https://github.com/TeFlink/console.git
+      ref: master
+    # path: ../console
   teflink_dot_env:
-    path: ../dot_env
+    git:
+      url: https://github.com/TeFlink/dot_env.git
+      ref: master
+    # path: ../dot_env
 #  path: ^1.6.0
 
 dev_dependencies:
