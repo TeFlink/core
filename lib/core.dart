@@ -7,3 +7,4 @@ export 'src/core_base.dart';
 
 export 'package:teflink_console/console.dart';
 export 'package:teflink_dot_env/dot_env.dart';
+export 'package:teflink_http/http.dart';
