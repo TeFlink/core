@@ -348,6 +348,15 @@ packages:
       url: "https://github.com/TeFlink/dot_env.git"
     source: git
     version: "0.0.0"
+  teflink_http:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: master
+      resolved-ref: c1c0f9777aba324d679e521cff6f58f08ce1c2b6
+      url: "https://github.com/TeFlink/http.git"
+    source: git
+    version: "0.0.0"
   term_glyph:
     dependency: transitive
     description:
