@@ -1,15 +1,15 @@
-name: core
-description: A starting point for Dart libraries or applications.
+name: teflink_core
+description: Centralized core for teFlink framework.
 # version: 1.0.0
 # homepage: https://www.example.com
 
 environment:
-  sdk: '>=2.7.0 <3.0.0'
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-  console:
+  teflink_console:
     path: ../console
-  dot_env:
+  teflink_dot_env:
     path: ../dot_env
 #  path: ^1.6.0
 

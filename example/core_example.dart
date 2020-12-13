@@ -1,4 +1,4 @@
-import 'package:core/core.dart';
+import 'package:teflink_core/core.dart';
 
 void main() {
   var awesome = Awesome();
